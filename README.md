@@ -13,7 +13,7 @@ This project implements a comprehensive multi-threaded data processing system in
 5. **Exception Handling**: Comprehensive error management
 6. **Logging System**: Detailed execution tracking
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Multi-threaded Data Processing System/
